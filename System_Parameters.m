@@ -14,7 +14,7 @@ g = -9.81;
 L = 0.2; 
 % lever arm offset
 d = 0.05; 
-% Moment of inertial of ball
+% Moment of inertia of ball
 J = 6.2e-7;  
 
 s = tf('s');
